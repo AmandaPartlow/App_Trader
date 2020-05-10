@@ -1,4 +1,4 @@
-###Nashville Software School Group Project - Using SQL to Analyze App Data  
+### Nashville Software School Group Project - Using SQL to Analyze App Data  
 
 *Original assignment: You have been hired by a new company called App Trader to help them explore and gain insights from apps that are made available through the Apple App Store and Android Play Store. App Trader will serve as a broker buying rights to apps from developers then deploying and marketing them. App developers retain **all** money from users purchasing the app, and they retain _half_ of the money made from in-app advertising and in-app purchases. App Trader will be solely responsible for marketing apps they purchase rights to. Unfortunately, the data for Apple App Store apps and Android Play Store Apps is located in separate tables with no referential integrity.*  
 
